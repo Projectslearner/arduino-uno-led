@@ -1,4 +1,4 @@
-# Arduino Uno Control External LED 
+# Arduino Uno To Control External LED 
 This project demonstrates how to connect and control an external LED using an Arduino Uno. It’s a simple and fundamental project that introduces the basics of digital output.
 
 In this project, an external LED is connected to the Arduino Uno, and the LED's state (on/off) is controlled via digital pin 13. The Arduino is programmed to blink the LED at regular intervals.
@@ -11,7 +11,7 @@ In this project, an external LED is connected to the Arduino Uno, and the LED's 
   - Jumper Wires
 
 ## Circuit Diagram
-  ![Arduino Uno LED Blinking]()
+  ![Arduino Uno LED Blinking](https://raw.githubusercontent.com/Projectslearner/arduino-uno-led/main/Arduino-uno-led-blinking.png)
 
 ## Instructions
 ### 1.Connect the LED and Resistor:
@@ -27,7 +27,7 @@ In this project, an external LED is connected to the Arduino Uno, and the LED's 
 ---
 ### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
 
-🌐 [projectslearner.com](https://www.projectslearner.com)<br/>
+🌐 [projectslearner.com](https://projectslearner.com/learn/arduino-uno-led)<br/>
 📧 [Email Us](mailto:projectslearner@gmail.com)<br/>
 📸 [Instagram](https://www.instagram.com/projectslearner/)<br/>
 📘 [Facebook](https://www.facebook.com/projectslearner)<br/>
